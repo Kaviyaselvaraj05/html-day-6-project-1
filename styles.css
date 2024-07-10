@@ -1,0 +1,45 @@
+#num{
+    border: 5px solid black;
+    height: 300px;
+    width: 500px;
+    bottom: 250px;
+    margin-top: 130px;
+    font-size: 20p;
+    background-color:lightpink;
+}
+#guessinput{
+    border: 4px solid black;
+    height: 30px;
+    width: 150px;
+    font-family: italic;
+}
+#btn{
+    height: 38px;
+    width: 80px;
+    font-size: 20px;
+    border: 2px solid black;
+    color:blue;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsz2ChzhmIjKCH5OQTKQGhRFXPyg9JIwO6A&s");
+}
+#m{
+    background-color:lightblue;
+    border: 4px solid black;
+    width: 300px;
+    height: 45px;
+    border-radius: 100px;
+    margin-top: 80px;
+}
+h1{
+    background-color:lightcyan;
+    
+    
+    border-radius:90px;
+    margin-top:6px;
+    margin-bottom:6px; 
+    width:300px;
+    
+}
+
+
